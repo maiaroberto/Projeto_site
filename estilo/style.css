@@ -8,7 +8,10 @@ body {
 
 main {
     background-color: white;
+<<<<<<< Updated upstream
     width: 500px;
+=======
+>>>>>>> Stashed changes
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
