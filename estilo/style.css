@@ -8,17 +8,22 @@ body {
 
 main {
     background-color: rgb(220, 236, 241);
-    width: 500px;
+    width: 800px;
     margin: auto;
-    padding: 10px;
+    padding: 5px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 
+nav {
+    margin: auto;
+    padding: 0px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
 #menu ul {
-    padding:0px;
-    margin:0px;
+    padding: 5px;
+    margin: 10px;
     float: right;
-    width: 100%;
+    width: 90%;
     background-color:#EDEDED;
     list-style:none;
     font:80% Tahoma;
