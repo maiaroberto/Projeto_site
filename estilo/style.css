@@ -3,7 +3,7 @@
     font-size: 14px;
 }
 body {
-    background-color: rgb(157, 178, 248);
+    background-color: rgb(0, 0, 0);
 }
 
 main {
@@ -12,4 +12,42 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+
+#menu ul {
+    padding:0px;
+    margin:0px;
+    float: right;
+    width: 100%;
+    background-color:#EDEDED;
+    list-style:none;
+    font:80% Tahoma;
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+    padding: 2px 10px;
+    float:right;
+}
+
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+#container-da-imagem {
+    width: 300px;
+    position: relative;
+}
+#container-da-imagem img {
+    width: 100%
+}
+img {
+    width: 100%
 }
