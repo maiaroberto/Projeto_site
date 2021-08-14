@@ -43,7 +43,7 @@ main {
 
 #container-da-imagem {
     width: 300px;
-    position: relative;
+    position: center;
 }
 #container-da-imagem img {
     width: 100%
