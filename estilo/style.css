@@ -40,3 +40,14 @@ main {
     color: #6D6D6D;
     border-bottom:3px solid #EA0000;
 }
+
+#container-da-imagem {
+    width: 300px;
+    position: relative;
+}
+#container-da-imagem img {
+    width: 100%
+}
+img {
+    width: 100%
+}
